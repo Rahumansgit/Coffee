@@ -19,11 +19,16 @@ It includes a menu section, navigation bar, and basic interactivity for a clean 
 ## 📂 Project Structure
 
 Coffee/
-├── .vscode/            # Editor settings (optional)
-├── img/                # Images (logo, menu, backgrounds, etc.)
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet for layout and design
-└── srcipt.js           # JavaScript for interactivity
+
+├── .vscode/  # Editor settings (optional)
+
+├── img/  # Images (logo, menu, backgrounds, etc.)
+
+├── index.html  # Main HTML file
+
+├── style.css  # Stylesheet for layout and design
+
+└── srcipt.js  # JavaScript for interactivity
 
 ---
 
