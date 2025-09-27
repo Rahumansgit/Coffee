@@ -1,4 +1,4 @@
-# ☕ Coffee Landing Page
+# Coffee Landing Page
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rahumansgit/Coffee)
 ![GitHub stars](https://img.shields.io/github/stars/Rahumansgit/Coffee?style=social)
@@ -10,13 +10,13 @@ It includes a menu section, navigation bar, and basic interactivity for a clean 
 
 ---
 
-## 📸 Demo / Screenshot
+## Demo / Screenshot
 
 ![Coffee Demo Screenshot](img/screenshot.png)  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Coffee/
 
@@ -32,14 +32,14 @@ Coffee/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5**  
 - **CSS3** (Flexbox, responsive design)  
 - **Vanilla JavaScript**  
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally:
 
@@ -60,7 +60,7 @@ Follow these steps to run the project locally:
 
 ---
 
-## 📖 Usage
+## Usage
 
 * Navbar links take you to sections of the page
 * On smaller screens, the hamburger menu toggles navigation
